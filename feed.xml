@@ -3,12 +3,51 @@
     <title>The Tricks Peak - Blog About Blogging, Technology and Reviews</title>
     <link href="https://www.thetrickspeak.com/feed.xml" rel="self" />
     <link href="https://www.thetrickspeak.com" />
-    <updated>2020-05-01T04:40:20+05:00</updated>
+    <updated>2020-05-05T22:10:30+05:00</updated>
     <author>
         <name>Nabeel Shoro</name>
     </author>
     <id>https://www.thetrickspeak.com</id>
 
+    <entry>
+        <title>How to reset the BIOS - why it is needed</title>
+        <author>
+            <name>Nabeel Shoro</name>
+        </author>
+        <link href="https://www.thetrickspeak.com/how-to-reset-the-bios-why-it-is-needed.html"/>
+        <id>https://www.thetrickspeak.com/how-to-reset-the-bios-why-it-is-needed.html</id>
+
+        <updated>2020-05-05T22:08:32+05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.thetrickspeak.com/media/posts/204/bios-154046_640.png" alt="How to reset the BIOS - why it is needed" />
+                    Basic settings regarding the operation of equipment and accessories are stored in the BIOS. You can get to this menu when you boot your computer or laptop. Usually, you need&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.thetrickspeak.com/media/posts/204/bios-154046_640.png" alt="How to reset the BIOS - why it is needed" />
+                <p><span >Basic settings regarding the operation of equipment and accessories are stored in the BIOS. You can get to this menu when you boot your <a href="https://www.thetrickspeak.com/computer-tips-and-tricks/">computer or laptop</a>. Usually, you need to hold the Del key while turning on the PC. Notebooks, as well as other brand assemblies, may have a different key. For example, there are options with F1, F2, F10. In any case, the key can be indicated on the loading screen, as well as in the instructions. In addition, it is worth looking for information on the official website of the manufacturer.</span></p>
+<h2 id="mcetoc_1e7is5at20"><span >Why reset</span></h2>
+<p><span >Resetting is required if you did something wrong and the computer does not start or is unstable. Often this happens when components are improperly dispersed. For example, you can try resetting the BIOS if the computer does not boot after changing any settings. And even when the system starts normally, errors and crashes to the blue screen can occur under load.</span></p>
+<p><span >Moreover, by resetting the BIOS, you can remove the previously set password if you forget it. This refers to the password set specifically in the BIOS, and not in Windows.</span></p>
+<h2 id="mcetoc_1e7is5at31"><span >What happens if you reset the BIOS</span></h2>
+<p><span >Simply put, when you reset the BIOS, nothing bad will happen. However, you need to understand that the settings will return to the factory state, which may affect the operation of the entire system. For example, you will lose the overclocking of components. This includes at least the frequency of the processor and RAM.</span></p>
+<h2 id="mcetoc_1e7is5at42"><span >How to reset BIOS</span></h2>
+<p><span >There are many ways to reset the BIOS, the easiest of which is software. This is done from the settings and therefore the computer should turn on. Also, this method will not work if there is a password and you do not remember it. Depending on the BIOS version, the name of the item in the settings may differ. Therefore, you should at least be a little familiar with how this works. You need to search for items with names: Load Optimized Defaults, Load Setup Defaults.</span></p>
+<h2 id="mcetoc_1e7is5at43"><span >Battery</span></h2>
+<p><span >In addition, you can reset the settings in a physical way. First of all, and it is much simpler, you should remove the battery power memory to store settings. This same battery allows the computer to display the correct time. </span></p>
+<p><span >It is located on the motherboard both in a stationary computer and on a laptop. In the latter case, you have to disassemble the laptop, which may void your warranty. The same applies to branded desktops, if the warranty seal is on the case, then you can not open it.</span></p>
+<p><span >Before removing the battery, disconnect the system unit, remove the laptop battery. Remove the battery and wait a few minutes before returning it to its place. Please note that the battery may be non-removable.</span></p>
+<h2 id="mcetoc_1e7is5at44"><span >Jumper to reset</span></h2>
+<p><span >Another way is connected with a special jumper located on the motherboard. Before performing the operation, be sure to turn off the power supply, using the switch on its case. In addition, the battery is also worth removing.</span></p>
+<p><span >Typically, a jumper is located next to the battery. There is no standard name for it. Designations can be: CLRTC, Clear CMOS, Reset CMOS, as well as various combinations and abbreviations of these words. Physically, the jumper looks like two or three-pin contacts. In the first case, they just need to be closed, for example, with a screwdriver. However, it is better to do this with the so-called jumper. It can be taken from another place on the motherboard, and put back after use. In the second case, the jumper is already present and connects two of the three contacts. It needs to be rearranged to the second position.</span></p>
+<p><span >Keep the contacts closed for 10-15 seconds and then put everything back. If this option does not work, then with the contacts closed, hold down the power button on the case and hold it for the same 10-15 seconds. After that, you may need to leave the board in this state for 15 minutes.</span></p>
+<p><span >Also on the motherboard, there may be a separate button to reset the settings. If it is present, then fiddling with jumpers is no longer necessary. It will be enough to hold it for 5-10 seconds with the power off.</span></p>
+<p>Also read: <a href="https://www.thetrickspeak.com/top-seven-tips-for-buying-a-gaming-computer.html">Top seven tips for vuying a gaming computer</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>10 free services for efficient work from home</title>
         <author>
@@ -528,42 +567,6 @@
 <p><span >You can create any number of groups, but the number of colors is limited - only eight. However, this is enough to restore order.</span></p>
 <p>Also read: <a href="https://www.thetrickspeak.com/gg.html">How to open 404 pages not found error</a></p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>How to open 404 pages not found error - What to do</title>
-        <author>
-            <name>Nabeel Shoro</name>
-        </author>
-        <link href="https://www.thetrickspeak.com/gg.html"/>
-        <id>https://www.thetrickspeak.com/gg.html</id>
-
-        <updated>2020-03-12T22:30:39+05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.thetrickspeak.com/media/posts/194/thetrickspeak-404-page.png" alt="How to open 404 pages not found error - What to do" />
-                    Did you face a 404 error, while browsing the internet once in a lifetime, you actively use the Internet has had to deal with it? In most cases, this causes&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://www.thetrickspeak.com/media/posts/194/thetrickspeak-404-page.png" alt="How to open 404 pages not found error - What to do" />
-                <p><span >Did you face a 404 error, while <a href="https://www.thetrickspeak.com/how-to-use-icloud-website-on-other-browser-and-smartphones.html">browsing the internet</a> once in a lifetime, you actively use the Internet has had to deal with it? In most cases, this causes discontent and the user immediately closes the error page. But if you have a book market that page and have very important information or article and you need to read it again. However, today <a href="#INTERNAL_LINK#/frontpage/1">The Tricks Peak</a> author brings you several ways to solve the problem.</span></p>
-<p><span >With active surfing on the Internet, you often have to deal with broken pages or entire sites. This usually happens when you follow a link from a search engine or your bookmarked pages. In this case, a special page appears with code 404.</span></p>
-<h2 id="mcetoc_1e37rt7i60"><span >Verify Address</span></h2>
-<p><span >The first thing to do is to check the page address. If you entered it manually, then there may be typos or extra characters. If you follow the link, then the problem may be in it. Since people fill the sites, they too can make mistakes and put broken links. In this case, you must carefully review the address. </span></p>
-<p><span >Copy the full address of the link: right-click on the link and select "Copy link address". Paste it into any text editor and review it carefully. Perhaps in the link, there are extra characters, spaces or something else is out of order.</span></p>
-<p><span >Try also to search for the page address in the search engine. Perhaps the search engine will give the correct link without errors.</span></p>
-<p><span >Also, the page could be renamed, but the redirect is not configured. In this case, you will not be transferred to a new address. It is impossible to guess what exactly changed the page address. One can only assume that it is still on the site and has a similar name. Try to search the page for keywords on the site itself or through a <a href="https://www.thetrickspeak.com/how-does-the-google-most-relevant-search-for-us.html">search engine</a>.</span></p>
-<p><span >You can also write to the owners of the site, perhaps they will prompt you a new address or give the necessary information.</span></p>
-<h2 id="mcetoc_1e37rt7i61"><span >Try a different browser</span></h2>
-<p><span >It is unlikely, but still worth trying another browser. If the page opens in it, then the problem is on your side. Try clearing your browser cache. </span></p>
-<h2 id="mcetoc_1e37rt7i62"><span >Find the saved copy of the page</span></h2>
-<p><span >If all else fails, you can try to find a saved copy of the page. This can be done through a search engine or website web.archive.org.</span></p>
-<p><span >If you went to a page from a search engine, then return to the search results and open a cached copy. You can also open a copy right away using the cache statement.</span></p>
-<p><span >Website web.archive.org offers a little more functionality. If the page was popular, then you can find several copies of it stored at different times.</span></p>
-<p>Also read: <a href="https://www.thetrickspeak.com/how-to-enable-dark-theme-on-instagram.html">How to enable dark theme on Instagram</a></p>
             ]]>
         </content>
     </entry>
