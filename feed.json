@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://www.thetrickspeak.com/how-to-transfer-files-from-phone-to-computer-without-a-usb-cable.html",
+            "url": "https://www.thetrickspeak.com/how-to-transfer-files-from-phone-to-computer-without-a-usb-cable.html",
+            "title": "How to transfer files from phone to computer without a USB cable",
+            "summary": "Often there are situations when you need to transfer information from a phone to a computer - be it text, video, or file. You can use the USB-wire, which will&hellip;",
+            "content_html": "<p><span >Often there are situations when you need to transfer information from a phone to a computer - be it text, video, or file. You can use the USB-wire, which will quickly transmit information. But what to do when there is no wire? I talk about 5 alternative methods of transfer files from phone to computer without a USB cable.</span></p>\n<h2 id=\"mcetoc_1e801u9md0\"><span >Email</span></h2>\n<p><span >This is a very easy way to transfer files. It is enough to have even one email address to transfer files. But, there are some restrictions - 10 GB. Files larger than 25 MB will be uploaded to the cloud.</span></p>\n<h2 id=\"mcetoc_1e801u9me1\"><span >Instant messengers</span></h2>\n<p><span >As a rule, instant messengers have a web version or a desktop client. In the case of WhatsApp, you can use</span><strong><span > the web version</span></strong><span >. I recommend downloading for Telegram </span><strong><span >desktop version</span></strong><span >. But still, there are size restrictions. For WhatsApp, this is 16 MB for photos and 100 MB for files. Telegram has more loyal limits - 1.5 GB for all file types.</span></p>\n<h2 id=\"mcetoc_1e801u9mf2\"><span >Cloud</span></h2>\n<p><span >There are a large number of cloud services. Almost all of them have a mobile application, so it’s convenient to upload files there and download them from your smartphone. Limits for the most popular cloud services:</span></p>\n<ul>\n<li><span >Google Cloud - from 50 Mb to 5 Tb</span></li>\n</ul>\n<h2 id=\"mcetoc_1e801u9mf3\"><span >FTP Transfer</span></h2>\n<p><span >This method is very interesting. Unlike the method above, it does not have any limits, but you need to at least have a minimum understanding of phones and computers. The plus is also that you do not need to use traffic since you do not need to publish and then download the file.</span></p>\n<p><span >First, you need to download </span><strong><span >ES File Explorer</span></strong><span > and connect to the same Wi-Fi network. After that, in the explorer in the side menu, select the network -&gt; View on PC. There will be a line similar to ftp://192.168.1.6:3721/. Enter it on the computer in the search menu. And here they are, all the files in front of you:</span></p>\n<h2 id=\"mcetoc_1e801u9mf4\"><strong><span >Shareit</span></strong></h2>\n<p><span >A very simple method. You need to install the ShareIt program on the phone and computer. After that, send the file on the phone and accept it on the computer. Using the internet is optional.</span></p>\n<p>Also read: <a href=\"https://www.thetrickspeak.com/how-to-reset-the-bios-why-it-is-needed.html\">How to reset the BIOS - Why it is needed</a></p>",
+            "image": "https://www.thetrickspeak.com/media/posts/205/cloud-4828080_640.jpg",
+            "author": {
+                "name": "Nabeel Shoro"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-11T00:49:57+05:00",
+            "date_modified": "2020-05-11T00:49:57+05:00"
+        },
+        {
             "id": "https://www.thetrickspeak.com/how-to-reset-the-bios-why-it-is-needed.html",
             "url": "https://www.thetrickspeak.com/how-to-reset-the-bios-why-it-is-needed.html",
             "title": "How to reset the BIOS - why it is needed",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2020-03-18T18:24:06+05:00",
             "date_modified": "2020-03-18T18:24:06+05:00"
-        },
-        {
-            "id": "https://www.thetrickspeak.com/how-to-clean-up-and-group-tabs-in-google-chrome.html",
-            "url": "https://www.thetrickspeak.com/how-to-clean-up-and-group-tabs-in-google-chrome.html",
-            "title": "How to clean up and group tabs in Google Chrome",
-            "summary": "Many of us have dozens of tabs open in Chrome at the same time. To put things in order, we install various extensions or even switch to other browsers -&hellip;",
-            "content_html": "<p id=\"mcetoc_1e3jc3hll0\"><span >Many of us have dozens of tabs open in Chrome at the same time. To put things in order, we install various extensions or even switch to other browsers - Today The Tricks Peak author brings you a way of clean up your Google Chrome browser and how to combined tabs into groups.</span></p>\n<p><span >There is no need for additional tools. <a href=\"https://www.thetrickspeak.com/google-chrome-video-downloader-all-time-top-10-extensions-list.html\">Google Chrome</a> already can sort tabs by category. It’s just hidden in the settings.</span></p>\n<p><span >Here's how to activate this feature. Type in the address bar <em><strong>chrome://flags/</strong></em> and press Enter. In the opened settings in the search, type <strong>Tab Groups</strong>.</span></p>\n<p><span >Switch the Tab Groups option that appears to Enabled, then click the Relaunch button at the bottom. The browser will restart.</span></p>\n<p><span >Now right-click on any tab and click <strong>“Add to New Group”</strong>. The tab will be colored, a colored circle will appear next to it.</span></p>\n<p><span >You can click on it and change the hue of the group of tabs, and also give it a name.</span></p>\n<p><span >When you want to assign a tab to an already created group, right-click it and select <strong>\"Add to an existing group.\"</strong> Or just drag the item with the mouse.</span></p>\n<p><span >You can create any number of groups, but the number of colors is limited - only eight. However, this is enough to restore order.</span></p>\n<p>Also read: <a href=\"https://www.thetrickspeak.com/gg.html\">How to open 404 pages not found error</a></p>\n<p> </p>",
-            "image": "https://www.thetrickspeak.com/media/posts/195/Group-Tab-in-Chrome.jpg",
-            "author": {
-                "name": "Nabeel Shoro"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-03-17T10:02:37+05:00",
-            "date_modified": "2020-03-17T10:02:37+05:00"
         }
     ]
 }
