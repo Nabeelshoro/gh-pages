@@ -3,12 +3,93 @@
     <title>The Tricks Peak - Blog About Blogging, Technology and Reviews</title>
     <link href="https://www.thetrickspeak.com/feed.xml" rel="self" />
     <link href="https://www.thetrickspeak.com" />
-    <updated>2020-05-13T21:30:23+05:00</updated>
+    <updated>2020-05-16T22:42:52+05:00</updated>
     <author>
         <name>Nabeel Shoro</name>
     </author>
     <id>https://www.thetrickspeak.com</id>
 
+    <entry>
+        <title>Factors to consider before choosing a web hosting service provider</title>
+        <author>
+            <name>Nabeel Shoro</name>
+        </author>
+        <link href="https://www.thetrickspeak.com/factors-to-consider-before-choosing-a-web-hosting-service-provider.html"/>
+        <id>https://www.thetrickspeak.com/factors-to-consider-before-choosing-a-web-hosting-service-provider.html</id>
+
+        <updated>2020-05-16T22:07:18+05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.thetrickspeak.com/media/posts/206/cloud-3406627_640.jpg" alt="Factors to consider before choosing a web hosting service provider" />
+                    We go to dozens of sites every day, this is called "web surfing." In this article, let's understand how sites work, and what does web hosting have to do with&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.thetrickspeak.com/media/posts/206/cloud-3406627_640.jpg" alt="Factors to consider before choosing a web hosting service provider" />
+                <p><span >We go to dozens of sites every day, this is called "web surfing." In this article, let's understand how sites work, and what does web hosting have to do with it.</span></p>
+<p><span >When you need to go to any site, we open a browser and write the name of the site, or rather a <a href="https://www.thetrickspeak.com/earning-money-from-domain-parking-basic-ideas.html">domain name</a>. It consists of the name and designation of the domain zone, for example, the domain "thetrickspeak.com" refers to the zone "global". Next, the browser needs to convert the alphabetic name to the digital address of the site - IP (Internet Protocol). Text names were invented for the convenience of using the Internet, but in reality, only digital IP addresses are “under the hood”.</span></p>
+<p><span >For mapping domains with IPs, a global database of Domain Name System (DNS) names is used.</span></p>
+<p><span >When the IP is found, the browser accesses this address and starts <a href="https://www.thetrickspeak.com/3-free-ways-to-download-youtube-videos.html">downloading</a> the site files. These files must be stored somewhere, this place is called web hosting. That is, hosting is a place on the Internet, the server where the site “lives”. Web hosting is provided by hosting providers. The stability of work and the speed of loading the site directly depend on the quality of the hosting. Hosting service is paid, and prices vary depending on requirements, from $ 1 per month. There are thousands of providers now, so it’s better to understand factors before buying any hosting for your website.</span></p>
+<h2 id="mcetoc_1e8f6nnv40"><span >Hosting Features</span></h2>
+<p><span ><a href="https://www.thetrickspeak.com/web-hosting-solution-for-small-business.html">Hosting</a> not only contains site files, but it is also a complex system that includes several basic modules:</span></p>
+<ul>
+<li><span >Name Server (DNS).</span></li>
+<li><span >File storage.</span></li>
+<li><span >Programming language handlers.</span></li>
+<li><span >Database servers.</span></li>
+<li><span >Backup system.</span></li>
+<li><span >HTTP server.</span></li>
+</ul>
+<p><span >The name server stores a database of domains and IP addresses. These databases are synchronized with each other and, theoretically, the same database on all hosting sites. Your ISP has the same database.</span></p>
+<p><span >The file server provides disk space. There are several basic file types used for the site:</span></p>
+<ul>
+<li><span >HTML is the source code of the page that is loaded into the browser.</span></li>
+<li><span >PHP - code in the programming language PHP.</span></li>
+<li><span >CSS - styles for visualizing content.</span></li>
+<li><span >JS - code in the Javascript programming language.</span></li>
+<li><span >JPG, PNG, GIF, WEBP - pictures, photos.</span></li>
+</ul>
+<p><span >You can, of course, store any files, but the described types are used on most pages on the Internet.</span></p>
+<p><span >On the Internet, some sites were static. This means that the hosting kept ready-made files that the browser simply downloaded and rendered the page. Now the sites are dynamic, i.e. the finished HTML file does not lie on the server, but it needs to be generated. This happened because there were content management systems (CMS), for example, WordPress.</span></p>
+<p><span >CMS uses programming languages ​​and databases. Different information is stored across dozens of tables in the database. With the help of a code, information is collected according to a given algorithm and a page is formed.</span></p>
+<p><span >Thus, you can generate millions of pages, and you do not need to store HTML files for each. But most importantly, it is easy to change something immediately on all pages of the site. Web hosting can interpret code in programming languages. The most popular are PHP, Perl, Python, ASP.NET, node.js. When choosing a hosting, pay attention above things</span></p>
+<p><span >The HTTP server accepts the connection from the browser and gives the files. If the page is static, then the HTTP server simply downloads the HTML file, and if it is dynamic, it will first transfer control to the interpreter and then take the HTML code from it. Hosting ability to process a large number of connections, i.e. visitors, depends on the HTTP server.</span></p>
+<h2 id="mcetoc_1e8f6nnv51"><span >Types of Hosting</span></h2>
+<p><span >The described model is called "Shared hosting", also called virtual or private. With shared hosting, a site is allocated disk space and a processor time limit for processing commands. As a rule, this limit is small, since hundreds of sites use one server, hence the name - “common”. This is the most inexpensive and common type of hosting.</span></p>
+<p><span >Shared hosting has disadvantages:</span></p>
+<ul>
+<li><span >Limited computing resources.</span></li>
+<li><span >You can not change the software environment.</span></li>
+<li><span >Server settings are very limited.</span></li>
+<li><span >The security of all sites is interconnected.</span></li>
+</ul>
+<p><span >But there are advantages:</span></p>
+<ul>
+<li><span >Low cost.</span></li>
+<li><span >Everything works out of the box.</span></li>
+<li><span >Server administration is entirely in the hands of technical support.</span></li>
+</ul>
+<p><span >Serious web owner does not use shared hosting, although large content resources may remain here. In fact, shared hosting can withstand impressive traffic if you turn a dynamic site into a static one.</span></p>
+<p><span >Caching plugins are used for this. It works simply: the first time you access the page, it, as expected, is generated by the engine from scratch. Then, the finished page is saved to an HTML file on disk, and the next time the hosting gives a static file.</span></p>
+<p><span ><a href="https://www.thetrickspeak.com/web-hosting-solution-for-small-business.html">Shared hosting</a> does not guarantee a processor resource, and it is not measured at all. Some hosters have come up with an internal processor unit, such as 50 CPUs. The number does not allow you to somehow evaluate the load capacity of the server, but in this way, you can compare tariffs among themselves. This gives an understanding that a more expensive tariff is not only distinguished by available disk space, but also by an increased limit on the processor.</span></p>
+<p><span >For guaranteed power they use virtual private servers - VPS / VDS. In this case, you get not just disk space for the site, but your own server. This means that you have your own operating system. On the OS, you can put any modules, programming languages, HTTP-servers, and databases. </span></p>
+<p><span >There can be some analogy between VPS and Shared: instead of a piece of disk space, you get a piece of the server. One real server is divided into dozens of virtual servers. Guaranteed resources are determined by the VPS parameters:</span></p>
+<ul>
+<li><span >The processor clock speed in MHz, for example, 2900 MHz.</span></li>
+<li><span >The number of processor cores: from 1 to 32 and above.</span></li>
+<li><span >The amount of RAM.</span></li>
+<li><span >Disk space</span></li>
+</ul>
+<p><span >VPS hosting launches online stores and services. If you need a complete server, then this is called a dedicated server rental. A physical server passes to your control, on which you can install your OS.</span></p>
+<p><span >Unlike Shared, a dedicated server needs to be independently administered, to monitor health and safety. If at night the server freezes and the site stops working, then only you are responsible for this. In the case of Shared hosting, technical support will see that the server crashed and restore its operation.</span></p>
+<p><span >Hosting is used not only for websites, but it is also a remote server to run applications. Sites run on Linux, programs run on Microsoft Windows. Conveniently, the servers work 24 hours a day, do not make noise, and do not take up space in the room. On a remote server, you can run a program that should work without interruption, and not require large processing power. For example, Windows hosting is used for the work of exchange robots.</span></p>
+<h2 id="mcetoc_1e8f6nnv52"><span >Conclusions</span></h2>
+<p><span >You need to carefully approach the choice of hosting provider services to host the site. After reviewing the available information, you can choose what the user needs in a particular situation: shared hosting or a VPS / VDS server. Both types of hosting have their pros and cons, choose what suits you best.</span></p>
+<p> Also read: <a href="https://www.thetrickspeak.com/review-on-the-best-web-hosting-to-best-suit-your-budget.html">Review on the best web hosting to best suit to your budget </a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>How to transfer files from phone to computer without a USB cable</title>
         <author>
@@ -537,42 +618,6 @@
 <p><span >Unusual text editor for those who can not work without a magic pedal. Flowstate for macOS will force you to write under the pain of losing all typed text. If you stop typing, then after 5 seconds everything will be deleted. </span></p>
 <p><span >I hope, you will like the above list of tools. feel free to comment on this post.</span></p>
 <p>Related: <a href="https://www.thetrickspeak.com/6-tools-to-transfer-playlists-from-one-music-service-to-another.html">6 tools to transfer playlist from one music service to another </a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>5 useful Google Chrome browser features you need to know</title>
-        <author>
-            <name>Nabeel Shoro</name>
-        </author>
-        <link href="https://www.thetrickspeak.com/5-useful-google-chrome-browser-features-you-need-to-know.html"/>
-        <id>https://www.thetrickspeak.com/5-useful-google-chrome-browser-features-you-need-to-know.html</id>
-
-        <updated>2020-03-18T18:24:06+05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.thetrickspeak.com/media/posts/196/browser-773216_640.jpg" alt="5 useful Google Chrome browser features you need to know" />
-                    These Google Chrome features are available without additional extensions. If you have a lot of bookmarks in the browser, and you need to save a few more links for a&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://www.thetrickspeak.com/media/posts/196/browser-773216_640.jpg" alt="5 useful Google Chrome browser features you need to know" />
-                <p><span >These Google Chrome features are available without additional extensions.</span></p>
-<h3 id="mcetoc_1e3msl3cr0"><span >1. Shortcut to any page on the desktop</span></h3>
-<p><span >If you have a lot of bookmarks in the browser, and you need to save a few more links for a while, use the shortcut function. With its help, you can send it to the desktop a website icon that redirects immediately to the page you need.</span></p>
-<p><span >To do this, open the <a href="https://www.thetrickspeak.com/how-to-clean-up-and-group-tabs-in-google-chrome.html">Chrome settings</a> on the selected page and select "Advanced Tools". In the submenu, there will be an item for creating a shortcut. Click on it and give the link a name.</span></p>
-<h3 id="mcetoc_1e3msl3cs1"><span >2. Save page to PDF</span></h3>
-<p><span >If you need to save the page exactly in the form in which it is displayed in the browser, you can use the save function in PDF format. It is available through the Print menu. To go to it, press Ctrl + P and select the option “Save as PDF” on the left.</span></p>
-<h3 id="mcetoc_1e3msl3cs2"><span >3. View a cached version of a site</span></h3>
-<p><span >To return to an earlier version of a web page or open an article already removed from the site, you can <a href="https://www.thetrickspeak.com/gg.html">access the cache</a>. To do this, add “cache:” before the page address and press “Enter”. In the same way, you can open previously viewed pages without connecting to the Web.</span></p>
-<h3 id="mcetoc_1e3msl3cs3"><span >4. Return a closed tab with a key combination</span></h3>
-<p><span >There are several ways to open the last closed tab. The most inconvenient is to find the page in the browser history. A little more practical is to right-click on another tab and select "Open Closed Tab" in the drop-down menu.</span></p>
-<p><span >The fastest way is to use the keyboard shortcut Ctrl + Shift + T.</span></p>
-<h3 id="mcetoc_1e3msl3cs4"><span >5. Watching YouTube in Picture-in-Picture Mode</span></h3>
-<p><span >To work in a browser or other programs without interrupting <a href="https://www.thetrickspeak.com/3-free-ways-to-download-youtube-videos.html">YouTube</a>, a video can be opened in a separate window that will be displayed on top of all applications. To do this, go to the desired video, right-click on it, opening the first menu of the basic settings, and then click here a second time. Another context menu will open, in which there will be an item "Picture in Picture".</span></p>
-<p><span >This function transfers the clip to a small window that will remain on the screen even if you minimize the browser. The size of the window can be adjusted by stretching it over the edges in different directions.</span></p>
-<p><span >That's all, Now your turn, Which of the features of Google Chrome Browser do you use? Share in the comments!</span></p>
             ]]>
         </content>
     </entry>
