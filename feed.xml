@@ -3,12 +3,43 @@
     <title>The Tricks Peak - Blog About Blogging, Technology and Reviews</title>
     <link href="https://www.thetrickspeak.com/feed.xml" rel="self" />
     <link href="https://www.thetrickspeak.com" />
-    <updated>2020-08-24T20:31:02+05:00</updated>
+    <updated>2020-09-01T20:59:42+05:00</updated>
     <author>
         <name>Nabeel Shoro</name>
     </author>
     <id>https://www.thetrickspeak.com</id>
 
+    <entry>
+        <title>Running out of disk space? where is the best place to store photos, films, and programs</title>
+        <author>
+            <name>Nabeel Shoro</name>
+        </author>
+        <link href="https://www.thetrickspeak.com/running-out-of-disk-space-where-is-the-best-place-to-store-photos-films-and-programs.html"/>
+        <id>https://www.thetrickspeak.com/running-out-of-disk-space-where-is-the-best-place-to-store-photos-films-and-programs.html</id>
+
+        <updated>2020-09-01T20:57:14+05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.thetrickspeak.com/media/posts/218/hard-disk-4255711_640.jpg" alt="Running out of disk space? where is the best place to store photos, films, and programs" />
+                    Each of us is once faced with the fact that the hard disk space is running out, you need to store them somewhere. It is also better not to fill&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.thetrickspeak.com/media/posts/218/hard-disk-4255711_640.jpg" alt="Running out of disk space? where is the best place to store photos, films, and programs" />
+                <p><span >Each of us is once faced with the fact that the hard disk space is running out, you need to store them somewhere. It is also better not to fill the hard disk so that the system does not slow down.</span></p>
+<p><span >In general, there are 3 options for storing files: burn to DVDs, store in the cloud, or purchase an external hard drive.</span></p>
+<p><span >I will say right away: you should not save the distributions of the programs, because the programs are changing, updated and it is better to download them again from the Internet. Now the time has passed when the programs were stored for several years.</span></p>
+<p><strong><span >Let's look at each case</span></strong></p>
+<p><strong><span >1. Burning to DVD</span></strong><span > is a cheap option, but inconvenient because when you need something, you will need to search for a disc. Also, the disc is easily damaged and scratched, so the reliability is not very good here. The good thing about this method is that it is very inexpensive. And perhaps that's all.</span></p>
+<p><strong><span >2. Store in the cloud. </span></strong><span >Many cloud services give you disk space for a price. There are two disadvantages here: a constant subscription fee, as well as the risk that the disk on the server will simply burn out.</span></p>
+<p><span >And in the contract for such services, it is written in black and white that the organization is not responsible for failures in work. And of course, you need a powerful Internet channel to upload and download your wealth, and your account can be broken and all your files can become public. In the cloud, I store those files that I need constant access from different devices. It is very convenient!</span></p>
+<p><strong><span >3. The best way</span></strong><span > is an external HDD hard drive. In my opinion, the most reliable. How to choose it? There are two factors here: capacity and reviews. I always choose according to reviews and try to take those models that have already received the proper number of ratings from real users (I don't make new models, I take from a year).</span></p>
+<p><span >You should not buy a 2 terabyte disk at once, it is better to buy two disks per terabyte or 500 gigabytes each. One to use as a backup. After all, the more places where information will be recorded, the more likely it will be saved. The external drive is easily connected via USB, and in the "This PC" section it appears as a regular hard drive.</span></p>
+<p>Also read: <a href="https://www.thetrickspeak.com/how-to-connect-airpods-to-android.html">How to connect AirPods to Android </a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>How to connect AirPods to Android</title>
         <author>
@@ -441,45 +472,6 @@ In the CatchUp application, users can indicate that they are ready for a convers
 <h2 id="mcetoc_1e9lo9p321">How to use CatchUp Application.</h2>
 <p>CatchUp is currently being tested in the US on iOS and Android. Since this is an experimental product, I hope Facebook will release and updates all over the world as soon as possible.</p>
 <p>Also read: <a href="https://www.thetrickspeak.com/facebook-will-create-operating-system-as-like-android.html">Facebook will create Operating System as like Android </a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>How to set up Google Assistant on Android with Action Block</title>
-        <author>
-            <name>Nabeel Shoro</name>
-        </author>
-        <link href="https://www.thetrickspeak.com/how-to-set-up-google-assistant-on-android-with-action-block.html"/>
-        <id>https://www.thetrickspeak.com/how-to-set-up-google-assistant-on-android-with-action-block.html</id>
-
-        <updated>2020-05-23T19:04:15+05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.thetrickspeak.com/media/posts/207/voice-search-1792301_640.png" alt="How to set up Google Assistant on Android with Action Block" />
-                    I love Google Assistant and use it regularly. Unlike Siri on iOS, the voice assistant of the Google Assistant is more deeply integrated with Android and allows you to interact&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://www.thetrickspeak.com/media/posts/207/voice-search-1792301_640.png" alt="How to set up Google Assistant on Android with Action Block" />
-                <p><span >I love Google Assistant and use it regularly. Unlike Siri on iOS, the voice assistant of the Google Assistant is more deeply integrated with Android and allows you to interact with the operating system with great convenience. You can ask him to translate the text, find the right product on the Internet from a photograph, read out the contents of the website, return the application that was mistakenly bought on Google Play, not to mention controlling music playback, setting alarms, and more. However, because it was possible to manage the Google Assistant only by voice or through correspondence, many avoided using it, hesitating to contact their phone. It’s good that Google understood this.</span></p>
-<p><span >Google has launched the Action Blocks app for Android. It allows you to create a kind of shortcut for the Google Assistant quick commands that you can place on your desktop and activate the necessary actions without speaking to the assistant by voice. That is Action Blocks is an analog of Siri Shortcuts on iOS, and its key difference from the proprietary Apple application is a less extensive set of functions, although Google Assistant itself will be more capable than Siri. However, the purpose of Action Blocks is a bit different.</span></p>
-<h2 id="mcetoc_1e90sme1a0"><span >How Google Assistant with Action block Quick Commands Work</span></h2>
-<p><span >The goal of Action Blocks is not to expand the capabilities of the device, like Siri Shortcuts, which adds functionality to the device but to simplify the interaction with it. Suppose, earlier, to set the alarm, you should first call the assistant, then say the appropriate command, set the time, check whether he understood you correctly, and only then confirm the action. With Action Blocks, you can make Google Assistant remember the action you need, save it, and you just click on the shortcut on the desktop to activate it.</span></p>
-<p>Read: <a href="https://www.thetrickspeak.com/5-useful-google-chrome-browser-features-you-need-to-know.html">5 useful Google Chrome browser feature </a></p>
-<p><span >While the Action Blocks application is available only in English, which, however, will not prevent you from downloading it. At the time of publication, the development is already available in the Russian segment of the Google Play catalog and is distributed free of charge. Well, to make it easier for you to understand the features of the program and configure everything the way you want, although its interface is as simple and logical as possible, I offer you this short instruction.</span></p>
-<h2 id="mcetoc_1e90sme1b1"><span >How to create a quick command for Google Assistant using Action Block Application</span></h2>
-<ul>
-<li><span >Download Action Block on your smartphone and activate it;</span></li>
-<li><span >Click Create Action Block to create a shortcut with the command;</span></li>
-<li><span >Select a command from the proposed ones or click Create custom action to create your own;</span></li>
-<li><span >Click on the microphone icon and say a command with your voice or write it on the keyboard;</span></li>
-<li><span >Click Test action to make sure that Google Assistant correctly recognized the command;</span></li>
-<li><span >Select an icon for a shortcut with a quick command and name it;</span></li>
-<li><span >Save the quick command and place it on your desktop.</span></li>
-</ul>
-<p><span >In my opinion, Action Blocks could be a decisive factor in favor of promoting Google Assistant. Not only that, thanks to the shortcuts with quick commands, the assistant will be able to use those who were embarrassed to use their smartphone's voice, but they will also help facilitate the use of older people. Practice shows that most users of advanced age interact with their smartphones only within a certain functional circle. However, with shortcuts, they can do much more without having to remember ways to activate certain features.</span></p>
-<p> Also read: <a href="https://www.thetrickspeak.com/google-and-facebook-kings-of-internet.html">Google and Facebook King of Internet </a></p>
             ]]>
         </content>
     </entry>
