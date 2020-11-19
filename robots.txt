@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.thetrickspeak.com/sitemap.xml
